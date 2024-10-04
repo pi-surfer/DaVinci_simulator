@@ -2,7 +2,7 @@
 
 This repository contains a MATLAB script for the simulation and visualization of the Da Vinci surgical robot with a multi-arm system. The code allows loading the robot's structural and kinematic data, computing the transformations of various arms, and visualizing the planned trajectory in a 3D space.
 This code was developed as part of "Medical Robotics" class in the Master's degree program in Bioengineering at the University of Padua.
-Authors: Beatrice Martin, AnnaPegreffi, LorenzoSterzi, ElenaVedova.
+Authors: Beatrice Martin, Anna Pegreffi, Lorenzo Sterzi, Elena Vedova.
 
 ## Summary
 
